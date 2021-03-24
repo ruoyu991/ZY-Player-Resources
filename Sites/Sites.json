@@ -7,47 +7,52 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
-  },
-  {
-    "key": "apibdzy",
-    "id": 2,
-    "name": "百度云资源",
-    "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.444662.cn/m3u8/?url=",
-    "group": "默认",
-    "isActive": true
-  },
-  {
-    "key": "快播云",
-    "id": 3,
-    "name": "快播云",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "默认",
-    "isActive": true
-  },
-  {
-    "key": "宅看(蓝光高清)",
-    "id": 4,
-    "name": "宅看(蓝光高清)",
-    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "1886zy",
-    "id": 5,
+    "id": 2,
     "name": "1886 资源",
     "api": "http://cj.1886zy.co/inc/api.php",
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "apibdzy",
+    "id": 3,
+    "name": "百度云资源",
+    "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.444662.cn/m3u8/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "快播云",
+    "id": 4,
+    "name": "快播云",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "宅看(蓝光高清)",
+    "id": 5,
+    "name": "宅看(蓝光高清)",
+    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "7K资源",
@@ -67,7 +73,8 @@
     "download": "",
     "jiexiUrl": "default",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "1717云资源网",
@@ -77,7 +84,8 @@
     "download": "",
     "jiexiUrl": "https://www.1717yun.com/jiexi/?url=",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "天空云",
@@ -87,7 +95,8 @@
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "聚合云",
@@ -97,7 +106,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "八戒云",
@@ -107,7 +117,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "subo988",
@@ -117,7 +128,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "88zyw",
@@ -127,7 +139,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "zuidazy",
@@ -137,7 +150,8 @@
     "download": "http://www.zdziyuan.com/inc/apidown.php",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "key": "okzy",
@@ -147,7 +161,8 @@
     "download": "http://cj.okzy.tv/inc/apidown.php",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@
     "download": "http://caiji.kuyun98.com/inc/apidown.php",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": false,
+    "status": "失效"
   },
   {
     "key": "kubozy",
@@ -167,7 +183,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": false,
+    "status": "失效"
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": false,
+    "status": "失效"
   },
   {
     "key": "rrzy",
@@ -187,7 +205,8 @@
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": false,
+    "status": "失效"
   },
   {
     "id": 21,
@@ -207,6 +227,237 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 22,
+    "key": "xhgcjym",
+    "name": "小黄瓜资源",
+    "api": "http://cj.xhgcjym.com/inc/api.php",
+    "download": "http://cj.xhgcjym.com/inc/apidown.php",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 23,
+    "key": "jiali",
+    "name": "佳丽 TV",
+    "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 24,
+    "key": "8090zy",
+    "name": "8090资源网",
+    "api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "id": 25,
+    "key": "rerezy",
+    "name": "热热资源",
+    "api": "http://api.rereapi.com/inc/api.php",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "id": 26,
+    "key": "agzy",
+    "name": "环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 27,
+    "key": "lajiaozy",
+    "name": "辣椒资源",
+    "api": "http://api.11bat.com/mac10.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 28,
+    "key": "dadizy",
+    "name": "大地资源",
+    "api": "https://dadiapi.com/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "key": "1WeZ6q",
+    "id": 29,
+    "name": "83特殊.xxoo",
+    "api": "https://www.xxohub3.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "id": 30,
+    "key": "ixxzya",
+    "name": "IXX 资源",
+    "api": "http://api.iixxzyapi.com/inc/api.php",
+    "download": "http://api.iixxzyapi.com/inc/apidown.php",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "id": 31,
+    "key": "khzy",
+    "name": "快活资源站",
+    "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "key": "Tuyoxk",
+    "id": 32,
+    "name": "90特殊.三合资源",
+    "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "key": "WC3h0o",
+    "id": 33,
+    "name": "93特殊.玉米资源",
+    "api": "http://api.cj644.com/inc/zyapimac.php",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "key": "dydyOa",
+    "id": 34,
+    "name": "91特殊.大炮资源",
+    "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 35,
+    "key": "NhTLgM",
+    "name": "76特殊.色色",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 36,
+    "key": "LYCe0z",
+    "name": "78特殊.乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 37,
+    "key": "Iy0Jlq",
+    "name": "79特殊.苍天",
+    "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "key": "77raVf",
+    "id": 38,
+    "name": "80特殊.云霸资源",
+    "api": "http://cj.1234567bt.com/inc/ldg_sea.php",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "key": "4btciy",
+    "id": 39,
+    "name": "84特殊.鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "key": "qz492Y",
+    "id": 40,
+    "name": "86特殊.七七资源",
+    "api": "https://www.77zyw.xyz/inc/api.php",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "key": "vJQZTA",
+    "id": 41,
+    "name": "92特殊.独家资源",
+    "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
+  },
+  {
+    "key": "FyxUS8",
+    "id": 42,
+    "name": "95特殊.35资源",
+    "api": "http://cj.35zycj.com/inc/zyapimac.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "key": "RRvupO",
+    "id": 43,
+    "name": "96特殊.av88资源",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 44,
+    "key": "77ziyuan",
+    "name": "77资源",
+    "api": "https://www.77zyw.xyz/inc/seacmsapi.php",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "status": "失效"
   }
 ]
